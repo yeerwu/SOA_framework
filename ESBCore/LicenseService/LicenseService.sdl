@@ -1,0 +1,9 @@
+# License Service Interface definition
+
+
+LicenseService
+{
+int validate(string service);   //validate service and check if it can still be used
+int getUsedValue(string service);  //get used license count
+int revoke(string service);   //revoke license
+};

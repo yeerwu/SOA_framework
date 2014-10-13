@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESBCore", "ESBCore\ESBCore.vcxproj", "{A5A2D228-39B7-4EB8-950D-CC25D2C8D0FF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LicenseService", "LicenseService\LicenseService.vcxproj", "{3CBA5BEC-5F9C-47DD-BB09-2C5C65BA9B00}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CallService", "CallService\CallService.vcxproj", "{81DA3C59-2790-4439-848A-D453F12B1A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A2D228-39B7-4EB8-950D-CC25D2C8D0FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5A2D228-39B7-4EB8-950D-CC25D2C8D0FF}.Debug|Win32.Build.0 = Debug|Win32
+		{A5A2D228-39B7-4EB8-950D-CC25D2C8D0FF}.Release|Win32.ActiveCfg = Release|Win32
+		{A5A2D228-39B7-4EB8-950D-CC25D2C8D0FF}.Release|Win32.Build.0 = Release|Win32
+		{3CBA5BEC-5F9C-47DD-BB09-2C5C65BA9B00}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3CBA5BEC-5F9C-47DD-BB09-2C5C65BA9B00}.Debug|Win32.Build.0 = Debug|Win32
+		{3CBA5BEC-5F9C-47DD-BB09-2C5C65BA9B00}.Release|Win32.ActiveCfg = Release|Win32
+		{3CBA5BEC-5F9C-47DD-BB09-2C5C65BA9B00}.Release|Win32.Build.0 = Release|Win32
+		{81DA3C59-2790-4439-848A-D453F12B1A04}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81DA3C59-2790-4439-848A-D453F12B1A04}.Debug|Win32.Build.0 = Debug|Win32
+		{81DA3C59-2790-4439-848A-D453F12B1A04}.Release|Win32.ActiveCfg = Release|Win32
+		{81DA3C59-2790-4439-848A-D453F12B1A04}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
